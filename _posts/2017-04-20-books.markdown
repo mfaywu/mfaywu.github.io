@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Books"
+date:   2017-04-20 00:19:00 -0700
+categories: books
+---
+
+## Books
+
+# Some books I want to read:
+- The Dream Machine
+- Working Effectively with Legacy Code
+- The Mythical Man-Month
+- Design Patterns
+- Programming Pearls
+- Code: The Hidden Language
+- The Art of Computer Programming
+- Refactoring
+- Clean Code
+- Introduction to Algorithms [x]
+- Structure and Interpretations of Computer Programs
+- Pragmatic Programmer
+- Code Complete 2 [x]
